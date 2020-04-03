@@ -1,0 +1,4 @@
+comandos npm importantes
+npm init -y
+npm i --save-dev nodemon
+npm i ejs express body-parser request
